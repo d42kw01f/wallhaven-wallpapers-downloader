@@ -1,5 +1,5 @@
 # wallhaven-wallpapers-downloader
-This is a small python script that downloads wallpapers from wallhaven.cc website
+This is a small python script that downloads wallpapers from [wallhaven.cc](https://wallhaven.cc/) website
 ```python3
 >>> python3 .\wal_downloader.py
 How many urls are there: 3
